@@ -1,0 +1,6 @@
+download/
+dist/
+env*
+.env
+files.db
+*.spec
